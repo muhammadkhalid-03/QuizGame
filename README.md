@@ -19,7 +19,7 @@ Usage
 1. Clone the repository to your local machine using the following command:
    git clone https://github.com/muhammadkhalid-03/QuizGame.git
 2. Navigate to the project directory:
-   cd quiz-game
+   cd QuizGame
 3. Open the index.html file in your preferred web browser to start the quiz game.
 4. Enter your name and answer the three questions by selecting the options.
 5. After answering all the questions, your total points and name will be displayed in a table.
